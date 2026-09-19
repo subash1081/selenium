@@ -65,13 +65,14 @@ public class BaseClass {
 	Actions actions;
 
 	Alert alert;
+
 	public byte[] screenshot() {
 
 		byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
 
 		return screenshot;
 
-		}
+	}
 
 	public static void browserLaunch(String browserType) {
 
@@ -430,6 +431,18 @@ public class BaseClass {
 	}
 	public void centermove() {
         System.out.println("center move");
+	}
+
+	public void orange() {
+		System.out.println("orange is tasty");
+	}
+
+	public void apple() {
+		System.out.println("apple is tasty");
+	}
+
+	public void pinapple() {
+		System.out.println("pinapple is tasty");
 	}
 
 }

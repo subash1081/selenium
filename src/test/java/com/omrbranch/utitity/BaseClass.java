@@ -422,5 +422,14 @@ public class BaseClass {
 		return domProperty;
 
 	}
+	public void leftmove() {
+         System.out.println("left move");
+	}
+	public void rightmove() {
+        System.out.println("right move");
+	}
+	public void centermove() {
+        System.out.println("center move");
+	}
 
 }

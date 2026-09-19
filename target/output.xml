@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.446" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-09-14T07:35:24.826627800Z">
+<testcase classname="OMR Branch Hotel Search Functionality" name="Verify search hotels with all fields - #1.1" time="0.038">
+<system-out><![CDATA[
+Given User is on the OMR Branch hotel page..................................passed
+When User enters "greenstechchennaiomr@gmail.com" and "GTOMR4j0b$"..........passed
+Then User should verify success message after login "Welcome Greens"........passed
+When User search hotel "Tamil Nadu", "Chennai", "Suite", "25-05-2026", "26-05-2026", "1-One", "2-Two" and "1-One".passed
+Then User should verify after search hotel success message "Select Hotel"...passed
+]]></system-out>
+</testcase>
+<testcase classname="OMR Branch Hotel Search Functionality" name="Verify search hotels with only mandatory fields - #1.1" time="0.014">
+<system-out><![CDATA[
+Given User is on the OMR Branch hotel page..................................passed
+When User enters "greenstechchennaiomr@gmail.com" and "GTOMR4j0b$"..........passed
+Then User should verify success message after login "Welcome Greens"........passed
+When User search hotel "Tamil Nadu", "Chennai", "25-05-2026", "26-05-2026", "1-One" and "2-Two".passed
+Then User should verify after search hotel success message "Select Hotel"...passed
+]]></system-out>
+</testcase>
+<testcase classname="OMR Branch Hotel Search Functionality" name="Verify search hotel without entering any fields" time="0.018">
+<system-out><![CDATA[
+Given User is on the OMR Branch hotel page..................................passed
+When User enters "greenstechchennaiomr@gmail.com" and "GTOMR4j0b$"..........passed
+Then User should verify success message after login "Welcome Greens"........passed
+And User click Search button................................................passed
+Then User should verify after search hotel error message "Please select State", "Please select City", "Please select Check-in date", "Please select Check-out date", "Please select no. of rooms" and "Please select no. of adults".passed
+]]></system-out>
+</testcase>
+<testcase classname="OMR Branch Hotel Search Functionality" name="Verify hotel price sorting from low to high - #1.1" time="0.016">
+<system-out><![CDATA[
+Given User is on the OMR Branch hotel page..................................passed
+When User enters "greenstechchennaiomr@gmail.com" and "GTOMR4j0b$"..........passed
+Then User should verify success message after login "Welcome Greens"........passed
+When User search hotel "Tamil Nadu", "Chennai", "Suite", "25-05-2026", "26-05-2026", "1-One", "2-Two" and "1-One".passed
+Then User should verify after search hotel success message "Select Hotel"...passed
+When User click sort from low to high.......................................passed
+Then User should verify after sorting that prices are listed from low to high.passed
+]]></system-out>
+</testcase>
+<testcase classname="OMR Branch Hotel Search Functionality" name="Verify hotel name sorting in descending order - #1.1" time="0.015">
+<system-out><![CDATA[
+Given User is on the OMR Branch hotel page..................................passed
+When User enters "greenstechchennaiomr@gmail.com" and "GTOMR4j0b$"..........passed
+Then User should verify success message after login "Welcome Greens"........passed
+When User search hotel "Tamil Nadu", "Chennai", "Suite", "25-05-2026", "26-05-2026", "1-One", "2-Two" and "1-One".passed
+Then User should verify after search hotel success message "Select Hotel"...passed
+When User click sort from descending order..................................passed
+Then User should verify after sorting that names are listed in descending order.passed
+]]></system-out>
+</testcase>
+<testcase classname="OMR Branch Hotel Search Functionality" name="Verify Suite room type hotels are listed - #1.1" time="0.008">
+<system-out><![CDATA[
+Given User is on the OMR Branch hotel page..................................passed
+When User enters "greenstechchennaiomr@gmail.com" and "GTOMR4j0b$"..........passed
+Then User should verify success message after login "Welcome Greens"........passed
+When User search hotel "Tamil Nadu", "Chennai", "Suite", "25-05-2026", "26-05-2026", "1-One", "2-Two" and "1-One".passed
+Then User should verify after search hotel success message "Select Hotel"...passed
+When User click Suite room type.............................................passed
+Then User should verify after filtering that Suite room type is listed......passed
+]]></system-out>
+</testcase>
+<testcase classname="OMR Branch Hotel Search Functionality" name="Verify header contains selected room type - #1.1" time="0.011">
+<system-out><![CDATA[
+Given User is on the OMR Branch hotel page..................................passed
+When User enters "greenstechchennaiomr@gmail.com" and "GTOMR4j0b$"..........passed
+Then User should verify success message after login "Welcome Greens"........passed
+When User search hotel "Tamil Nadu", "Chennai", "Suite", "25-05-2026", "26-05-2026", "1-One", "2-Two" and "1-One".passed
+Then User should verify after search hotel success message "Select Hotel"...passed
+And User should verify the header contains "Suite"..........................passed
+]]></system-out>
+</testcase>
+</testsuite>

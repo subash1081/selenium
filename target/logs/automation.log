@@ -1,0 +1,585 @@
+04-09-2026 12:28:28 [INFO] TestRunnerClass - ========================================
+04-09-2026 12:28:28 [INFO] TestRunnerClass - Automation Test Execution Started
+04-09-2026 12:28:28 [INFO] TestRunnerClass - ========================================
+04-09-2026 12:28:30 [INFO] TestRunnerClass - Test Execution Completed
+04-09-2026 12:28:30 [INFO] TestRunnerClass - JVM Report generation started
+04-09-2026 12:28:30 [INFO] Reporting - ==========================================
+04-09-2026 12:28:30 [INFO] Reporting - JVM Report Generation Started
+04-09-2026 12:28:30 [INFO] Reporting - ==========================================
+04-09-2026 12:28:30 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+04-09-2026 12:28:30 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+04-09-2026 12:28:30 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+04-09-2026 12:28:30 [INFO] Reporting - Report Configuration Created
+04-09-2026 12:28:30 [INFO] Reporting - Report Classifications Added Successfully
+04-09-2026 12:28:30 [INFO] Reporting - JSON File Added to Report Builder
+04-09-2026 12:28:30 [INFO] Reporting - ReportBuilder Object Created
+04-09-2026 12:28:32 [INFO] Reporting - JVM Report Generated Successfully
+04-09-2026 12:28:32 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+04-09-2026 12:28:32 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+04-09-2026 12:28:32 [INFO] Reporting - ==========================================
+04-09-2026 12:28:32 [INFO] Reporting - JVM Report Generation Completed
+04-09-2026 12:28:32 [INFO] Reporting - ==========================================
+04-09-2026 12:28:32 [INFO] TestRunnerClass - JVM Report generation completed
+04-09-2026 12:28:32 [INFO] TestRunnerClass - ========================================
+04-09-2026 12:28:32 [INFO] TestRunnerClass - Automation Test Execution Finished
+04-09-2026 12:28:32 [INFO] TestRunnerClass - ========================================
+04-09-2026 12:31:45 [INFO] TestRunnerClass - ========================================
+04-09-2026 12:31:45 [INFO] TestRunnerClass - Automation Test Execution Started
+04-09-2026 12:31:45 [INFO] TestRunnerClass - ========================================
+04-09-2026 12:31:48 [INFO] TestRunnerClass - Test Execution Completed
+04-09-2026 12:31:48 [INFO] TestRunnerClass - JVM Report generation started
+04-09-2026 12:31:48 [INFO] Reporting - ==========================================
+04-09-2026 12:31:48 [INFO] Reporting - JVM Report Generation Started
+04-09-2026 12:31:48 [INFO] Reporting - ==========================================
+04-09-2026 12:31:48 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+04-09-2026 12:31:48 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+04-09-2026 12:31:48 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+04-09-2026 12:31:48 [INFO] Reporting - Report Configuration Created
+04-09-2026 12:31:48 [INFO] Reporting - Report Classifications Added Successfully
+04-09-2026 12:31:48 [INFO] Reporting - JSON File Added to Report Builder
+04-09-2026 12:31:48 [INFO] Reporting - ReportBuilder Object Created
+04-09-2026 12:31:49 [INFO] Reporting - JVM Report Generated Successfully
+04-09-2026 12:31:49 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+04-09-2026 12:31:49 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+04-09-2026 12:31:49 [INFO] Reporting - ==========================================
+04-09-2026 12:31:49 [INFO] Reporting - JVM Report Generation Completed
+04-09-2026 12:31:49 [INFO] Reporting - ==========================================
+04-09-2026 12:31:49 [INFO] TestRunnerClass - JVM Report generation completed
+04-09-2026 12:31:49 [INFO] TestRunnerClass - ========================================
+04-09-2026 12:31:49 [INFO] TestRunnerClass - Automation Test Execution Finished
+04-09-2026 12:31:49 [INFO] TestRunnerClass - ========================================
+04-09-2026 12:32:54 [INFO] TestRunnerClass - ========================================
+04-09-2026 12:32:54 [INFO] TestRunnerClass - Automation Test Execution Started
+04-09-2026 12:32:54 [INFO] TestRunnerClass - ========================================
+04-09-2026 12:32:57 [INFO] TestRunnerClass - Test Execution Completed
+04-09-2026 12:32:57 [INFO] TestRunnerClass - JVM Report generation started
+04-09-2026 12:32:57 [INFO] Reporting - ==========================================
+04-09-2026 12:32:57 [INFO] Reporting - JVM Report Generation Started
+04-09-2026 12:32:57 [INFO] Reporting - ==========================================
+04-09-2026 12:32:57 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+04-09-2026 12:32:57 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+04-09-2026 12:32:57 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+04-09-2026 12:32:57 [INFO] Reporting - Report Configuration Created
+04-09-2026 12:32:57 [INFO] Reporting - Report Classifications Added Successfully
+04-09-2026 12:32:57 [INFO] Reporting - JSON File Added to Report Builder
+04-09-2026 12:32:57 [INFO] Reporting - ReportBuilder Object Created
+04-09-2026 12:32:58 [INFO] Reporting - JVM Report Generated Successfully
+04-09-2026 12:32:58 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+04-09-2026 12:32:58 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+04-09-2026 12:32:58 [INFO] Reporting - ==========================================
+04-09-2026 12:32:58 [INFO] Reporting - JVM Report Generation Completed
+04-09-2026 12:32:58 [INFO] Reporting - ==========================================
+04-09-2026 12:32:58 [INFO] TestRunnerClass - JVM Report generation completed
+04-09-2026 12:32:58 [INFO] TestRunnerClass - ========================================
+04-09-2026 12:32:58 [INFO] TestRunnerClass - Automation Test Execution Finished
+04-09-2026 12:32:58 [INFO] TestRunnerClass - ========================================
+14-09-2026 10:20:12 [INFO] TestRunnerClass - ========================================
+14-09-2026 10:20:12 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 10:20:12 [INFO] TestRunnerClass - ========================================
+14-09-2026 10:20:13 [INFO] HooksClass - ==============================================
+14-09-2026 10:20:13 [INFO] HooksClass - Scenario Started : Verify login with invalid credentials
+14-09-2026 10:20:13 [INFO] HooksClass - ==============================================
+14-09-2026 10:20:13 [ERROR] HooksClass - Scenario Failed : Verify login with invalid credentials
+14-09-2026 10:20:13 [INFO] HooksClass - ==============================================
+14-09-2026 10:20:13 [INFO] HooksClass - Scenario Ended : Verify login with invalid credentials
+14-09-2026 10:20:13 [INFO] HooksClass - ==============================================
+14-09-2026 10:20:35 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 10:20:35 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 10:20:35 [INFO] Reporting - ==========================================
+14-09-2026 10:20:35 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 10:20:35 [INFO] Reporting - ==========================================
+14-09-2026 10:20:35 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 10:20:35 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 10:20:35 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 10:20:35 [INFO] Reporting - Report Configuration Created
+14-09-2026 10:20:35 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 10:20:35 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 10:20:35 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 10:20:36 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 10:20:36 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 10:20:36 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 10:20:36 [INFO] Reporting - ==========================================
+14-09-2026 10:20:36 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 10:20:36 [INFO] Reporting - ==========================================
+14-09-2026 10:20:36 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 10:20:36 [INFO] TestRunnerClass - ========================================
+14-09-2026 10:20:36 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 10:20:36 [INFO] TestRunnerClass - ========================================
+14-09-2026 10:21:34 [INFO] TestRunnerClass - ========================================
+14-09-2026 10:21:34 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 10:21:34 [INFO] TestRunnerClass - ========================================
+14-09-2026 10:21:34 [INFO] HooksClass - ==============================================
+14-09-2026 10:21:34 [INFO] HooksClass - Scenario Started : Verify login with invalid credentials
+14-09-2026 10:21:34 [INFO] HooksClass - ==============================================
+14-09-2026 10:21:34 [ERROR] HooksClass - Scenario Failed : Verify login with invalid credentials
+14-09-2026 10:21:34 [INFO] HooksClass - ==============================================
+14-09-2026 10:21:34 [INFO] HooksClass - Scenario Ended : Verify login with invalid credentials
+14-09-2026 10:21:34 [INFO] HooksClass - ==============================================
+14-09-2026 10:21:56 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 10:21:56 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 10:21:56 [INFO] Reporting - ==========================================
+14-09-2026 10:21:56 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 10:21:56 [INFO] Reporting - ==========================================
+14-09-2026 10:21:56 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 10:21:56 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 10:21:56 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 10:21:56 [INFO] Reporting - Report Configuration Created
+14-09-2026 10:21:56 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 10:21:56 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 10:21:56 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 10:21:56 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 10:21:56 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 10:21:56 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 10:21:56 [INFO] Reporting - ==========================================
+14-09-2026 10:21:56 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 10:21:56 [INFO] Reporting - ==========================================
+14-09-2026 10:21:56 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 10:21:56 [INFO] TestRunnerClass - ========================================
+14-09-2026 10:21:56 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 10:21:56 [INFO] TestRunnerClass - ========================================
+14-09-2026 10:42:10 [INFO] TestRunnerClass - ========================================
+14-09-2026 10:42:10 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 10:42:10 [INFO] TestRunnerClass - ========================================
+14-09-2026 10:42:11 [INFO] HooksClass - ==============================================
+14-09-2026 10:42:11 [INFO] HooksClass - Scenario Started : Verify login with invalid credentials
+14-09-2026 10:42:11 [INFO] HooksClass - ==============================================
+14-09-2026 10:42:11 [ERROR] HooksClass - Scenario Failed : Verify login with invalid credentials
+14-09-2026 10:42:11 [INFO] HooksClass - ==============================================
+14-09-2026 10:42:11 [INFO] HooksClass - Scenario Ended : Verify login with invalid credentials
+14-09-2026 10:42:11 [INFO] HooksClass - ==============================================
+14-09-2026 10:42:32 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 10:42:32 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 10:42:32 [INFO] Reporting - ==========================================
+14-09-2026 10:42:32 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 10:42:32 [INFO] Reporting - ==========================================
+14-09-2026 10:42:32 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 10:42:32 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 10:42:32 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 10:42:32 [INFO] Reporting - Report Configuration Created
+14-09-2026 10:42:32 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 10:42:32 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 10:42:32 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 10:42:33 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 10:42:33 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 10:42:33 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 10:42:33 [INFO] Reporting - ==========================================
+14-09-2026 10:42:33 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 10:42:33 [INFO] Reporting - ==========================================
+14-09-2026 10:42:33 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 10:42:33 [INFO] TestRunnerClass - ========================================
+14-09-2026 10:42:33 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 10:42:33 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:26:08 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:26:08 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 11:26:08 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:26:08 [INFO] HooksClass - ==============================================
+14-09-2026 11:26:08 [INFO] HooksClass - Scenario Started : Verify login with invalid credentials
+14-09-2026 11:26:08 [INFO] HooksClass - ==============================================
+14-09-2026 11:26:08 [ERROR] HooksClass - Scenario Failed : Verify login with invalid credentials
+14-09-2026 11:26:08 [INFO] HooksClass - ==============================================
+14-09-2026 11:26:08 [INFO] HooksClass - Scenario Ended : Verify login with invalid credentials
+14-09-2026 11:26:08 [INFO] HooksClass - ==============================================
+14-09-2026 11:26:30 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 11:26:30 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 11:26:30 [INFO] Reporting - ==========================================
+14-09-2026 11:26:30 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 11:26:30 [INFO] Reporting - ==========================================
+14-09-2026 11:26:30 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 11:26:30 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 11:26:30 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 11:26:30 [INFO] Reporting - Report Configuration Created
+14-09-2026 11:26:30 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 11:26:30 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 11:26:30 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 11:26:31 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 11:26:31 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 11:26:31 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 11:26:31 [INFO] Reporting - ==========================================
+14-09-2026 11:26:31 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 11:26:31 [INFO] Reporting - ==========================================
+14-09-2026 11:26:31 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 11:26:31 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:26:31 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 11:26:31 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:27:44 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:27:44 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 11:27:44 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:27:44 [INFO] HooksClass - ==============================================
+14-09-2026 11:27:44 [INFO] HooksClass - Scenario Started : Verify login with invalid credentials
+14-09-2026 11:27:44 [INFO] HooksClass - ==============================================
+14-09-2026 11:28:12 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:28:14 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:28:15 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:28:16 [INFO] HooksClass - Scenario Passed : Verify login with invalid credentials
+14-09-2026 11:28:16 [INFO] HooksClass - Closing Browser
+14-09-2026 11:28:16 [INFO] HooksClass - ==============================================
+14-09-2026 11:28:16 [INFO] HooksClass - Scenario Ended : Verify login with invalid credentials
+14-09-2026 11:28:16 [INFO] HooksClass - ==============================================
+14-09-2026 11:29:01 [INFO] HooksClass - ==============================================
+14-09-2026 11:29:01 [INFO] HooksClass - Scenario Started : Verify login with invalid credentials
+14-09-2026 11:29:01 [INFO] HooksClass - ==============================================
+14-09-2026 11:29:08 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 11:29:08 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 11:29:08 [INFO] Reporting - ==========================================
+14-09-2026 11:29:08 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 11:29:08 [INFO] Reporting - ==========================================
+14-09-2026 11:29:08 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 11:29:08 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 11:29:08 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 11:29:08 [INFO] Reporting - Report Configuration Created
+14-09-2026 11:29:08 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 11:29:08 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 11:29:09 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 11:29:10 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 11:29:10 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 11:29:10 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 11:29:10 [INFO] Reporting - ==========================================
+14-09-2026 11:29:10 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 11:29:10 [INFO] Reporting - ==========================================
+14-09-2026 11:29:10 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 11:29:10 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:29:10 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 11:29:10 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:29:18 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:29:20 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:29:21 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:29:21 [INFO] HooksClass - Scenario Passed : Verify login with invalid credentials
+14-09-2026 11:29:21 [INFO] HooksClass - Closing Browser
+14-09-2026 11:29:22 [INFO] HooksClass - ==============================================
+14-09-2026 11:29:22 [INFO] HooksClass - Scenario Ended : Verify login with invalid credentials
+14-09-2026 11:29:22 [INFO] HooksClass - ==============================================
+14-09-2026 11:30:04 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:30:04 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 11:30:04 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:30:04 [INFO] HooksClass - ==============================================
+14-09-2026 11:30:04 [INFO] HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+14-09-2026 11:30:04 [INFO] HooksClass - ==============================================
+14-09-2026 11:30:12 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:30:14 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:30:28 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:30:29 [ERROR] HooksClass - Scenario Failed : Verify login with valid credentials without Enter Key
+14-09-2026 11:30:29 [INFO] HooksClass - Closing Browser
+14-09-2026 11:30:29 [INFO] HooksClass - ==============================================
+14-09-2026 11:30:29 [INFO] HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+14-09-2026 11:30:29 [INFO] HooksClass - ==============================================
+14-09-2026 11:30:50 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 11:30:50 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 11:30:50 [INFO] Reporting - ==========================================
+14-09-2026 11:30:50 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 11:30:50 [INFO] Reporting - ==========================================
+14-09-2026 11:30:50 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 11:30:50 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 11:30:50 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 11:30:50 [INFO] Reporting - Report Configuration Created
+14-09-2026 11:30:50 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 11:30:50 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 11:30:51 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 11:30:52 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 11:30:52 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 11:30:52 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 11:30:52 [INFO] Reporting - ==========================================
+14-09-2026 11:30:52 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 11:30:52 [INFO] Reporting - ==========================================
+14-09-2026 11:30:52 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 11:30:52 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:30:52 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 11:30:52 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:35:09 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:35:09 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 11:35:09 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:35:10 [INFO] HooksClass - ==============================================
+14-09-2026 11:35:10 [INFO] HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+14-09-2026 11:35:10 [INFO] HooksClass - ==============================================
+14-09-2026 11:35:33 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:35:36 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:35:36 [ERROR] HooksClass - Scenario Failed : Verify login with valid credentials without Enter Key
+14-09-2026 11:35:36 [INFO] HooksClass - Closing Browser
+14-09-2026 11:35:36 [INFO] HooksClass - ==============================================
+14-09-2026 11:35:36 [INFO] HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+14-09-2026 11:35:36 [INFO] HooksClass - ==============================================
+14-09-2026 11:35:48 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:35:48 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 11:35:48 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:35:48 [INFO] HooksClass - ==============================================
+14-09-2026 11:35:48 [INFO] HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+14-09-2026 11:35:48 [INFO] HooksClass - ==============================================
+14-09-2026 11:35:58 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 11:35:58 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 11:35:58 [INFO] Reporting - ==========================================
+14-09-2026 11:35:58 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 11:35:58 [INFO] Reporting - ==========================================
+14-09-2026 11:35:58 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 11:35:58 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 11:35:58 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 11:35:58 [INFO] Reporting - Report Configuration Created
+14-09-2026 11:35:58 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 11:35:58 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 11:35:58 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 11:35:59 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 11:35:59 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 11:35:59 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 11:35:59 [INFO] Reporting - ==========================================
+14-09-2026 11:35:59 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 11:35:59 [INFO] Reporting - ==========================================
+14-09-2026 11:35:59 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 11:35:59 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:35:59 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 11:35:59 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:36:00 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:36:02 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:36:19 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 11:36:20 [INFO] HooksClass - Scenario Passed : Verify login with valid credentials without Enter Key
+14-09-2026 11:36:20 [INFO] HooksClass - Closing Browser
+14-09-2026 11:36:20 [INFO] HooksClass - ==============================================
+14-09-2026 11:36:20 [INFO] HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+14-09-2026 11:36:20 [INFO] HooksClass - ==============================================
+14-09-2026 11:36:42 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 11:36:42 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 11:36:42 [INFO] Reporting - ==========================================
+14-09-2026 11:36:42 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 11:36:42 [INFO] Reporting - ==========================================
+14-09-2026 11:36:42 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 11:36:42 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 11:36:42 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 11:36:42 [INFO] Reporting - Report Configuration Created
+14-09-2026 11:36:42 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 11:36:42 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 11:36:42 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 11:36:43 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 11:36:43 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 11:36:43 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 11:36:43 [INFO] Reporting - ==========================================
+14-09-2026 11:36:43 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 11:36:43 [INFO] Reporting - ==========================================
+14-09-2026 11:36:43 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 11:36:43 [INFO] TestRunnerClass - ========================================
+14-09-2026 11:36:43 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 11:36:43 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:23:10 [INFO] HooksClass - ==============================================
+14-09-2026 12:23:10 [INFO] HooksClass - Scenario Started : Verify login with valid credentials without Enter Key
+14-09-2026 12:23:10 [INFO] HooksClass - ==============================================
+14-09-2026 12:23:14 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:23:14 [ERROR] HooksClass - Scenario Failed : Verify login with valid credentials without Enter Key
+14-09-2026 12:23:14 [INFO] HooksClass - Closing Browser
+14-09-2026 12:23:15 [INFO] HooksClass - ==============================================
+14-09-2026 12:23:15 [INFO] HooksClass - Scenario Ended : Verify login with valid credentials without Enter Key
+14-09-2026 12:23:15 [INFO] HooksClass - ==============================================
+14-09-2026 12:24:13 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:24:13 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 12:24:13 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:24:13 [INFO] HooksClass - ==============================================
+14-09-2026 12:24:13 [INFO] HooksClass - Scenario Started : Verify login with invalid credentials
+14-09-2026 12:24:13 [INFO] HooksClass - ==============================================
+14-09-2026 12:24:18 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:24:26 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:24:28 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:24:28 [ERROR] HooksClass - Scenario Failed : Verify login with invalid credentials
+14-09-2026 12:24:28 [INFO] HooksClass - Closing Browser
+14-09-2026 12:24:29 [INFO] HooksClass - ==============================================
+14-09-2026 12:24:29 [INFO] HooksClass - Scenario Ended : Verify login with invalid credentials
+14-09-2026 12:24:29 [INFO] HooksClass - ==============================================
+14-09-2026 12:24:50 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 12:24:50 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 12:24:50 [INFO] Reporting - ==========================================
+14-09-2026 12:24:50 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 12:24:50 [INFO] Reporting - ==========================================
+14-09-2026 12:24:50 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 12:24:50 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 12:24:50 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 12:24:50 [INFO] Reporting - Report Configuration Created
+14-09-2026 12:24:50 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 12:24:50 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 12:24:51 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 12:24:52 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 12:24:52 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 12:24:52 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 12:24:52 [INFO] Reporting - ==========================================
+14-09-2026 12:24:52 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 12:24:52 [INFO] Reporting - ==========================================
+14-09-2026 12:24:52 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 12:24:52 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:24:52 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 12:24:52 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:43:22 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:43:22 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 12:43:22 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:43:22 [INFO] HooksClass - ==============================================
+14-09-2026 12:43:22 [INFO] HooksClass - Scenario Started : Verify login with valid credentials using Enter Key via Keyboard
+14-09-2026 12:43:22 [INFO] HooksClass - ==============================================
+14-09-2026 12:43:35 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:43:36 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:44:07 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:44:08 [ERROR] HooksClass - Scenario Failed : Verify login with valid credentials using Enter Key via Keyboard
+14-09-2026 12:44:08 [INFO] HooksClass - Closing Browser
+14-09-2026 12:44:08 [INFO] HooksClass - ==============================================
+14-09-2026 12:44:08 [INFO] HooksClass - Scenario Ended : Verify login with valid credentials using Enter Key via Keyboard
+14-09-2026 12:44:08 [INFO] HooksClass - ==============================================
+14-09-2026 12:44:30 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 12:44:30 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 12:44:30 [INFO] Reporting - ==========================================
+14-09-2026 12:44:30 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 12:44:30 [INFO] Reporting - ==========================================
+14-09-2026 12:44:30 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 12:44:30 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 12:44:30 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 12:44:30 [INFO] Reporting - Report Configuration Created
+14-09-2026 12:44:30 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 12:44:30 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 12:44:30 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 12:44:31 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 12:44:31 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 12:44:31 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 12:44:31 [INFO] Reporting - ==========================================
+14-09-2026 12:44:31 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 12:44:31 [INFO] Reporting - ==========================================
+14-09-2026 12:44:31 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 12:44:31 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:44:31 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 12:44:31 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:44:51 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:44:51 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 12:44:51 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:44:52 [INFO] HooksClass - ==============================================
+14-09-2026 12:44:52 [INFO] HooksClass - Scenario Started : Verify login with valid credentials using Enter Key via Keyboard
+14-09-2026 12:44:52 [INFO] HooksClass - ==============================================
+14-09-2026 12:45:00 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:45:02 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:45:12 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:45:13 [INFO] HooksClass - Scenario Passed : Verify login with valid credentials using Enter Key via Keyboard
+14-09-2026 12:45:13 [INFO] HooksClass - Closing Browser
+14-09-2026 12:45:13 [INFO] HooksClass - ==============================================
+14-09-2026 12:45:13 [INFO] HooksClass - Scenario Ended : Verify login with valid credentials using Enter Key via Keyboard
+14-09-2026 12:45:13 [INFO] HooksClass - ==============================================
+14-09-2026 12:45:24 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 12:45:24 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 12:45:24 [INFO] Reporting - ==========================================
+14-09-2026 12:45:24 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 12:45:24 [INFO] Reporting - ==========================================
+14-09-2026 12:45:24 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 12:45:24 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 12:45:24 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 12:45:24 [INFO] Reporting - Report Configuration Created
+14-09-2026 12:45:24 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 12:45:24 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 12:45:24 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 12:45:25 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 12:45:25 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 12:45:25 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 12:45:25 [INFO] Reporting - ==========================================
+14-09-2026 12:45:25 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 12:45:25 [INFO] Reporting - ==========================================
+14-09-2026 12:45:25 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 12:45:25 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:45:25 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 12:45:25 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:49:16 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:49:16 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 12:49:16 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:49:16 [INFO] HooksClass - ==============================================
+14-09-2026 12:49:16 [INFO] HooksClass - Scenario Started : Verify login with invalid credentials
+14-09-2026 12:49:16 [INFO] HooksClass - ==============================================
+14-09-2026 12:49:23 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:49:25 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:49:26 [INFO] HooksClass - Capturing screenshot after step
+14-09-2026 12:49:27 [INFO] HooksClass - Scenario Passed : Verify login with invalid credentials
+14-09-2026 12:49:27 [INFO] HooksClass - Closing Browser
+14-09-2026 12:49:27 [INFO] HooksClass - ==============================================
+14-09-2026 12:49:27 [INFO] HooksClass - Scenario Ended : Verify login with invalid credentials
+14-09-2026 12:49:27 [INFO] HooksClass - ==============================================
+14-09-2026 12:49:48 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 12:49:48 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 12:49:48 [INFO] Reporting - ==========================================
+14-09-2026 12:49:48 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 12:49:48 [INFO] Reporting - ==========================================
+14-09-2026 12:49:48 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 12:49:48 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 12:49:48 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 12:49:48 [INFO] Reporting - Report Configuration Created
+14-09-2026 12:49:48 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 12:49:48 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 12:49:48 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 12:49:50 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 12:49:50 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 12:49:50 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 12:49:50 [INFO] Reporting - ==========================================
+14-09-2026 12:49:50 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 12:49:50 [INFO] Reporting - ==========================================
+14-09-2026 12:49:50 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 12:49:50 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:49:50 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 12:49:50 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:55:03 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:55:03 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 12:55:03 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:55:07 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 12:55:07 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 12:55:07 [INFO] Reporting - ==========================================
+14-09-2026 12:55:07 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 12:55:07 [INFO] Reporting - ==========================================
+14-09-2026 12:55:07 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 12:55:07 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 12:55:07 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 12:55:07 [INFO] Reporting - Report Configuration Created
+14-09-2026 12:55:07 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 12:55:07 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 12:55:07 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 12:55:08 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 12:55:08 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 12:55:08 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 12:55:08 [INFO] Reporting - ==========================================
+14-09-2026 12:55:08 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 12:55:08 [INFO] Reporting - ==========================================
+14-09-2026 12:55:08 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 12:55:08 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:55:08 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 12:55:08 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:57:25 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:57:25 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 12:57:25 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:57:47 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 12:57:47 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 12:57:47 [INFO] Reporting - ==========================================
+14-09-2026 12:57:47 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 12:57:47 [INFO] Reporting - ==========================================
+14-09-2026 12:57:47 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 12:57:47 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 12:57:47 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 12:57:47 [INFO] Reporting - Report Configuration Created
+14-09-2026 12:57:47 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 12:57:47 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 12:57:48 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 12:57:49 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 12:57:49 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 12:57:49 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 12:57:49 [INFO] Reporting - ==========================================
+14-09-2026 12:57:49 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 12:57:49 [INFO] Reporting - ==========================================
+14-09-2026 12:57:49 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 12:57:49 [INFO] TestRunnerClass - ========================================
+14-09-2026 12:57:49 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 12:57:49 [INFO] TestRunnerClass - ========================================
+14-09-2026 13:05:24 [INFO] TestRunnerClass - ========================================
+14-09-2026 13:05:24 [INFO] TestRunnerClass - Automation Test Execution Started
+14-09-2026 13:05:24 [INFO] TestRunnerClass - ========================================
+14-09-2026 13:05:28 [INFO] TestRunnerClass - Test Execution Completed
+14-09-2026 13:05:28 [INFO] TestRunnerClass - JVM Report generation started
+14-09-2026 13:05:28 [INFO] Reporting - ==========================================
+14-09-2026 13:05:28 [INFO] Reporting - JVM Report Generation Started
+14-09-2026 13:05:28 [INFO] Reporting - ==========================================
+14-09-2026 13:05:28 [INFO] Reporting - JVM Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 13:05:28 [INFO] Reporting - JSON Report Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\output.json
+14-09-2026 13:05:28 [INFO] Reporting - Log File Path : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 13:05:28 [INFO] Reporting - Report Configuration Created
+14-09-2026 13:05:28 [INFO] Reporting - Report Classifications Added Successfully
+14-09-2026 13:05:28 [INFO] Reporting - JSON File Added to Report Builder
+14-09-2026 13:05:28 [INFO] Reporting - ReportBuilder Object Created
+14-09-2026 13:05:29 [INFO] Reporting - JVM Report Generated Successfully
+14-09-2026 13:05:29 [INFO] Reporting - JVM Report Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target
+14-09-2026 13:05:29 [INFO] Reporting - Execution Logs Available At : C:\Users\subash\eclipse-workspace\OmrBranchHotelProject_Subash\target\logs\automation.log
+14-09-2026 13:05:29 [INFO] Reporting - ==========================================
+14-09-2026 13:05:29 [INFO] Reporting - JVM Report Generation Completed
+14-09-2026 13:05:29 [INFO] Reporting - ==========================================
+14-09-2026 13:05:29 [INFO] TestRunnerClass - JVM Report generation completed
+14-09-2026 13:05:29 [INFO] TestRunnerClass - ========================================
+14-09-2026 13:05:29 [INFO] TestRunnerClass - Automation Test Execution Finished
+14-09-2026 13:05:29 [INFO] TestRunnerClass - ========================================
